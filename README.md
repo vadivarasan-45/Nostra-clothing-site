@@ -24,7 +24,7 @@ Includes a simple contact form where users can send their inquiries to the brand
 - **JavaScript**: For interactive elements, such as form validation.
 
 ## Demo
-You can see the live demo of this project at https://vadivarasan-45.github.io/Nostra-clothing-site/
+You can see the live demo of this project at https://github.com/vadivarasan-45/Nostra-clothing-site.git
 
 ## How to View
 
